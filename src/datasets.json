@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Zebra",
+    "path": "data/Zebra.txt",
+    "sha256": "adf5a7571877f40fd610f17c69fde3e8a2a9fcd3cf3e8821868b265d03ba34bf",
+    "n": 23,
+    "m": 105,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Karate",
+    "path": "data/Karate.txt",
+    "sha256": "72efa1228f7b59eac818b753ee9d07f6ffbe81a4d48ca3bf39c7a08b55542c29",
+    "n": 34,
+    "m": 78,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "LesMis",
+    "path": "data/LesMis.txt",
+    "sha256": "7e92cbef5108494fe00228ca7397b1b5193d460adf2126fa82906efa97265117",
+    "n": 77,
+    "m": 254,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Jazz",
+    "path": "data/Jazz.txt",
+    "sha256": "1dfdf4a39d6025b1861ab86b7ef586c97a31d3f64b6f4c0cc8bbb92408ecbc62",
+    "n": 198,
+    "m": 2742,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Email",
+    "path": "data/Email.txt",
+    "sha256": "23e0ca0bce21a053025e78f7e9691ac9210ae806a0689bd5edff3c3bac572d4c",
+    "n": 986,
+    "m": 16064,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Euroroad",
+    "path": "data/Euroroad.txt",
+    "sha256": "d197c75a837b5c39307294e13b0a3d755bbd393b174a4b2e8cd35b03c5f15502",
+    "n": 1039,
+    "m": 1305,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Hamster",
+    "path": "data/Hamster.txt",
+    "sha256": "43c22542dfd0f11deb1b423fb35735013e79affb7b9ac9c22b514fd47cd462a4",
+    "n": 1788,
+    "m": 12476,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Cora",
+    "path": "data/Cora.txt",
+    "sha256": "316d45e0e48387392c70cc3e3915e43f6f5c147ea45c973971e2c9140aaadacf",
+    "n": 2485,
+    "m": 5069,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "PPI",
+    "path": "data/PPI.txt",
+    "sha256": "d7c8dad09aeca196dcd22ef7d1e629b90fbbe310b8d525b607fd85ed24eee3c2",
+    "n": 3852,
+    "m": 37841,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Facebook",
+    "path": "data/Facebook.txt",
+    "sha256": "f41c026ed8af3cc3359f1ca5573d0605fb09ae0eefa34544b820fd8c6e2ef296",
+    "n": 4039,
+    "m": 88234,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "ca-GrQc",
+    "path": "data/ca-GrQc.txt",
+    "sha256": "06a7218f732122e3e8b11a27584b0a3d00d45b0ca93d554189e7b1f85f36b68d",
+    "n": 4158,
+    "m": 13422,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Wiki-Vote",
+    "path": "data/Wiki-Vote.txt",
+    "sha256": "d2afbedf262126f820c6b3dd9f39a6d68e6f5ea839c0508297032ca77578b28a",
+    "n": 7066,
+    "m": 100736,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "socfb-CMU",
+    "path": "data/socfb-CMU.txt",
+    "sha256": "c540749fc846f7286183bf90516d6e8cdae59d6f4761cbc032d88edf4d0877b5",
+    "n": 6621,
+    "m": 249959,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "LastFM-Asia",
+    "path": "data/LastFM-Asia.txt",
+    "sha256": "a03237715a6d8e046f933e04569a768c45a82fbf1f5d638e616d6c235d232e26",
+    "n": 7624,
+    "m": 27806,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "ca-HepTh",
+    "path": "data/ca-HepTh.txt",
+    "sha256": "b9ca6244f62f9fe4de7614244125b6d98cd56f30b37dfdaf5706284ce7d15020",
+    "n": 8638,
+    "m": 24806,
+    "exact": true,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "ca-HepPh",
+    "path": "data/ca-HepPh.txt",
+    "sha256": "0e1fb6d1725708eae893f7a361756f70717fb9761db6cc248df6b0ddc9db5403",
+    "n": 11204,
+    "m": 117619,
+    "exact": false,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "ca-AstroPh",
+    "path": "data/ca-AstroPh.txt",
+    "sha256": "23568f4410810f137e8c977dd81676a6ece91e00cf4a641515db8566aaa5fdb8",
+    "n": 17903,
+    "m": 196972,
+    "exact": false,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "ca-CondMat",
+    "path": "data/ca-CondMat.txt",
+    "sha256": "722cbd8e06072589fb6dd5345e8ae61ca95a9cbe86c7d99de4e55ace47d5574d",
+    "n": 21363,
+    "m": 91286,
+    "exact": false,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Email-Enron",
+    "path": "data/Email-Enron.txt",
+    "sha256": "ea392d7a4cc24e0d43c16b078939e92aeb2950b6bbb14605dd31856a27273a82",
+    "n": 33696,
+    "m": 180811,
+    "exact": false,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Brightkite",
+    "path": "data/Brightkite.txt",
+    "sha256": "d5964c4c8fc3dc0d8849ef4c4fb6b1c1cf3ece684f99a54dfac682d7074bb173",
+    "n": 56739,
+    "m": 212945,
+    "exact": false,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Gowalla",
+    "path": "data/Gowalla.txt",
+    "sha256": "1c1643fb9011532f963477114025f3cfdcc819c93cea37b52ac17e77591ad44d",
+    "n": 196591,
+    "m": 950327,
+    "exact": false,
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Amazon",
+    "path": "data/Amazon.txt",
+    "sha256": "5fc50df9f5e242bd89bbeebea1e7a8d96b577a1f209b5c1b14785784b246fc8b",
+    "n": 262111,
+    "m": 899792,
+    "exact": false,
+    "seeds": [
+      0
+    ]
+  },
+  {
+    "name": "com-DBLP",
+    "path": "data/com-DBLP.txt",
+    "sha256": "ad025cd5933e163e3007e214b3554e0a99d735a3133d0a4e34fd001621219231",
+    "n": 317080,
+    "m": 1049866,
+    "exact": false,
+    "seeds": [
+      0
+    ]
+  }
+]

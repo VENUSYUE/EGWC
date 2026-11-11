@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "egwc"
+version = "0.1.0"
+description = "Edge group walk centrality and greedy edge selection"
+readme = "README.md"
+requires-python = ">=3.9,<3.11"
+dependencies = [
+    "numpy==1.21.5",
+    "scipy==1.9.1",
+    "numba==0.55.1",
+]
+
+[project.scripts]
+egwc-run = "egwc.cli:main"
+egwc-summarize = "egwc.reporting:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+egwc = ["datasets.json"]
